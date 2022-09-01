@@ -1,0 +1,14 @@
+ul {
+  display: flex;
+  list-style: none;
+}
+.il {
+  flex: 1;
+  text-align: center;
+  text-decoration: none;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
